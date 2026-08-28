@@ -1,3 +1,7 @@
+# Downloaded/generated GH Archive dataset files (reproducible via
+# scripts/download_gharchive.py + the hour recorded in README.md)
+/data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
